@@ -1,6 +1,6 @@
 # King Made
 
-Games and experiments in interactive worlds, software, and AI.
+night projects in gaming, robotics, and AI.
 
 **[Visit KingMade.co](https://kingmade.co)**
 
